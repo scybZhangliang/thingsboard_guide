@@ -93,8 +93,6 @@
 
    `File size exceeds configured limit (2560000), code insight features not available`
 
-   # [File size exceeds configured limit (2560000), code insight features not available](https://stackoverflow.com/questions/23057988/file-size-exceeds-configured-limit-2560000-code-insight-features-not-availabl)
-
    这是因为IDEA默认的文件大小为2.5M，但生成的文件超过了这个大小，我们重新配置限制的值即可。
 
    在IDEA顶部工具栏中依次点击 `Help->Edit Custom Properties`，会打开`idea.properties`文件，如果没有配置过，IDEA会提示自动生成，在打开的文件中加入如下内容：
@@ -106,3 +104,5 @@
    ```
 
    至此，问题解决，IDE中不再提示报错，
+
+   参考链接：[File size exceeds configured limit (2560000), code insight features not available](https://stackoverflow.com/questions/23057988/file-size-exceeds-configured-limit-2560000-code-insight-features-not-availabl)
