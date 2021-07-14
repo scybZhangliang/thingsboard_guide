@@ -11,3 +11,6 @@
 - [**ThingsBoard**源码解析-前端websocket订阅](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_websocket.md)
 - [**ThingsBoard**源码解析-前端](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_ui.md)
 
+欢迎大家添加的个人微信。
+
+<img src="https://github.com/scybZhangliang/thingsboard_guide/blob/master/qrcode.jpeg"/>
