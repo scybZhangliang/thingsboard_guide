@@ -2,7 +2,7 @@
 
 - [**ThingsBoard**编译安装常见问题](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_install_problems.md)
 - [**ThingsBoard**源码解析-目录结构](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_structure.md)
-- [**ThingsBoard**源码解析-服务拆分与职责](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_services.md)
+- [**ThingsBoard**源码解析-服务拆分与职责](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_structure.md)
 - [**ThingsBoard**源码解析-集群初始化](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_cluster_init.md)
 - [**ThingsBoard**源码解析-登录](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_login.md)
 - [**ThingsBoard**源码解析-设备mqtt连接](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_mqtt_connect.md)
@@ -11,6 +11,6 @@
 - [**ThingsBoard**源码解析-前端websocket订阅](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_websocket.md)
 - [**ThingsBoard**源码解析-前端](https://github.com/scybZhangliang/thingsboard_guide/blob/master/thingsboard_source_ui.md)
 
-欢迎大家添加的个人微信。
+欢迎大家添加我的个人微信。
 
 <img src="https://github.com/scybZhangliang/thingsboard_guide/blob/master/qrcode.jpeg"/>
